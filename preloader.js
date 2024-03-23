@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://jvsc99.github.io/preloaderJs/imagem.svg';
+svgImage.src = 'https://github.com/LordCortes/preloaderJs/blob/main/logo2.png';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
